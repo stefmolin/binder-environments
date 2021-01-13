@@ -1,5 +1,5 @@
-# Hands-On Data Analysis with Pandas, 2nd Edition
+# Hands-On Data Analysis with Pandas, 1st Edition
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefmolin/binder-environments/1st_edition?urlpath=git-pull?repo=https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas) [![Purchase the book on Amazon](https://img.shields.io/badge/Amazon-purchase-orange?logo=amazon&logoColor=orange)](https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1789615321) [![View repository on GitHub](https://img.shields.io/badge/Github-view%20repo-lightgrey?logo=GitHub&logoColor=white)](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas)
 <a href="https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1789615321"><img src="https://static.packt-cdn.com/products/9781789615326/cover/smaller" alt="Hands-On Data Analysis with Pandas" height="256px" align="right"></a>
 
-This branch defines the environment needed to run the code bundle for 2nd edition of Hands-On Data Analysis with Pandas using binder.
+This branch defines the environment needed to run the code bundle for 1st edition of Hands-On Data Analysis with Pandas using binder.
