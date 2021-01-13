@@ -17,7 +17,7 @@ git+https://github.com/stefmolin/ml-utils.git@2nd_edition
 git+https://github.com/stefmolin/stock-analysis.git@2nd_edition
 
 # this has to be edited to point to the original repo for binder to install it
-git+https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition.git@2nd_edition#visual-aids
+git+https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition.git@2nd_edition#subdirectory=visual-aids
 
 # for binder to use this env
 nbgitpuller
