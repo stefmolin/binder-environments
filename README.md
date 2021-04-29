@@ -4,12 +4,12 @@ Central location for binder environments, especially those used with my book, Ha
 ## Available environments
 
 - Hands-On Data Analysis with Pandas:
-    - [2nd Edition](#hands-on-data-analysis-with-pandas--second-edition-tbd-2021)
+    - [2nd Edition](#hands-on-data-analysis-with-pandas--second-edition-april-2021)
     - [1st Edition](#hands-on-data-analysis-with-pandas--first-edition-july-2019)
 
 ---
 
-### Hands-On Data Analysis with Pandas &ndash; Second Edition (TBD 2021)
+### Hands-On Data Analysis with Pandas &ndash; Second Edition (April 2021)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefmolin/binder-environments/2nd_edition?urlpath=git-pull?repo=https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) [![Purchase the book on Amazon](https://img.shields.io/badge/Amazon-purchase-orange?logo=amazon&logoColor=orange)](https://www.amazon.com/gp/product/1800563450/) [![View repository on GitHub](https://img.shields.io/badge/Github-view%20repo-lightgrey?logo=GitHub&logoColor=white)](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition)
 
 <a href="https://www.amazon.com/gp/product/1800563450/"><img src="https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition/blob/master/_img/cover.PNG" alt="Hands-On Data Analysis with Pandas – Second Edition" height="256px" align="right"></a>
