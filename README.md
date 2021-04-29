@@ -1,4 +1,4 @@
-# Hands-On Data Analysis with Pandas, 2nd Edition
+# Hands-On Data Analysis with Pandas – Second Edition
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefmolin/binder-environments/2nd_edition?urlpath=git-pull?repo=https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) [![Purchase the book on Amazon](https://img.shields.io/badge/Amazon-purchase-orange?logo=amazon&logoColor=orange)](https://www.amazon.com/gp/product/1800563450/) [![View repository on GitHub](https://img.shields.io/badge/Github-view%20repo-lightgrey?logo=GitHub&logoColor=white)](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition)
 <a href="https://www.amazon.com/gp/product/1800563450/"><img src="https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition/blob/master/_img/cover.PNG" alt="Hands-On Data Analysis with Pandas – Second Edition" height="256px" align="right"></a>
 
