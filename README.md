@@ -1,5 +1,9 @@
 # Binder environments
-Central location for binder environments, especially those used with my book, Hands-On Data Analysis with Pandas.
+Central location for binder environments, especially those used with my book, Hands-On Data Analysis with Pandas. The actual Jupyter Notebooks and content are located in separate GitHub repositories. This makes it possible to build the environment [faster](https://discourse.jupyter.org/t/tip-speed-up-binder-launches-by-pulling-github-content-in-a-binder-link-with-nbgitpuller/922/36) since each push of new content to the repository won't trigger a rebuild of the environment. 
+
+Some helpful Binder link generators:
+- [general case](https://mybinder.org/): when the environment specifications and content are in the same repository
+- [nbgitpuller](https://jupyterhub.github.io/nbgitpuller/link?tab=binder): when using separate repositories for the content and the environment
 
 ## Available environments
 
