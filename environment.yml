@@ -3,6 +3,7 @@ channels:
     - conda-forge
 dependencies: 
     - python=3.8
+    - jupyterlab=3.0.15
     - matplotlib=3.3.2
     - nbgitpuller
     - numpy=1.19.2
