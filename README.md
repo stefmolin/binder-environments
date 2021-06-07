@@ -10,6 +10,7 @@ Some helpful Binder link generators:
 - Hands-On Data Analysis with Pandas:
     - [2nd Edition](#hands-on-data-analysis-with-pandas--second-edition-april-2021)
     - [1st Edition](#hands-on-data-analysis-with-pandas--first-edition-july-2019)
+- [Pandas Workshop](#pandas-workshop)
 
 ---
 
@@ -39,5 +40,17 @@ Data analysis has become an essential skill in a variety of domains where knowin
 By the end of this book, you will be equipped with the skills you need to use pandas to ensure the veracity of your data, visualize it for effective decision-making, and reliably reproduce analysis across multiple domains.
 
 *The [1st_edition branch](../../tree/1st_edition) defines the environment needed to run the code bundle for 1st edition of Hands-On Data Analysis with Pandas using binder.*
+
+---
+
+### Pandas Workshop
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefmolin/binder-environments/pandas_workshop?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fstefmolin%252Fpandas-workshop%26urlpath%3Dlab%252Ftree%252Fpandas-workshop%252F%26branch%3Dmaster) [![View repository on GitHub](https://img.shields.io/badge/Github-view%20repo-lightgrey?logo=GitHub&logoColor=white)](https://github.com/stefmolin/pandas-workshop)
+
+Working with data can be challenging: it often doesn’t come in the best format for analysis, and understanding it well enough to extract insights requires both time and the skills to filter, aggregate, reshape, and visualize it. This session will equip you with the knowledge you need to effectively use pandas – a powerful library for data analysis in Python – to make this process easier.
+
+Pandas makes it possible to work with tabular data and perform all parts of the analysis from collection and manipulation through aggregation and visualization. While most of this session focuses on pandas, during our discussion of visualization, we will also introduce at a high level matplotlib (the library that pandas uses for its visualization features, which when used directly makes it possible to create custom layouts, add annotations, etc.) and seaborn (another plotting library, which features additional plot types and the ability to visualize long-format data).
+
+*The [pandas_workshop branch](../../tree/pandas_workshop) defines the environment needed to run the Jupyter Notebooks for my "Introduction to Data Analysis Using Pandas" workshop.*
 
 ---
