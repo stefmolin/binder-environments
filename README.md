@@ -11,6 +11,7 @@ Some helpful Binder link generators:
     - [2nd Edition](#hands-on-data-analysis-with-pandas--second-edition-april-2021)
     - [1st Edition](#hands-on-data-analysis-with-pandas--first-edition-july-2019)
 - [Pandas Workshop](#pandas-workshop)
+- [Python Data Visualization Workshop](#python-data-visualization-workshop)
 
 ---
 
@@ -52,5 +53,17 @@ Working with data can be challenging: it often doesn’t come in the best format
 Pandas makes it possible to work with tabular data and perform all parts of the analysis from collection and manipulation through aggregation and visualization. While most of this session focuses on pandas, during our discussion of visualization, we will also introduce at a high level matplotlib (the library that pandas uses for its visualization features, which when used directly makes it possible to create custom layouts, add annotations, etc.) and seaborn (another plotting library, which features additional plot types and the ability to visualize long-format data).
 
 *The [pandas_workshop branch](../../tree/pandas_workshop) defines the environment needed to run the Jupyter Notebooks for my "Introduction to Data Analysis Using Pandas" workshop.*
+
+---
+
+### Python Data Visualization Workshop
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefmolin/binder-environments/data_viz_workshop?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fstefmolin%252Fpython-data-viz-workshop%26urlpath%3Dlab%252Ftree%252Fpython-data-viz-workshop%252F%26branch%3Dmain) [![View repository on GitHub](https://img.shields.io/badge/Github-view%20repo-lightgrey?logo=GitHub&logoColor=white)](https://github.com/stefmolin/python-data-viz-workshop)
+
+The human brain excels at finding patterns in visual representations, which is why data visualizations are essential to any analysis. Done right, they bridge the gap between those analyzing the data and those consuming the analysis. However, learning to create impactful, aesthetically-pleasing visualizations can often be challenging. This session will equip you with the skills to make customized visualizations for your data using Python.
+
+While there are many plotting libraries to choose from, the prolific Matplotlib library is always a great place to start. Since various Python data science libraries utilize Matplotlib under the hood, familiarity with Matplotlib itself gives you the flexibility to fine tune the resulting visualizations (e.g., add annotations, animate, etc.). This session will also introduce interactive visualizations using HoloViz, which provides a higher-level plotting API capable of using Matplotlib and Bokeh (a Python library for generating interactive, JavaScript-powered visualizations) under the hood.
+
+*The [data_viz_workshop branch](../../tree/data_viz_workshop) defines the environment needed to run the Jupyter Notebooks for my "Beyond the Basics: Data Visualization in Python" workshop.*
 
 ---
